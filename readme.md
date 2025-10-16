@@ -1,6 +1,6 @@
 ## Validation of Histopathology Foundation Models (Hist_FMs)
 
-This repository provides modularized Python scripts for **benchmarking and validating histopathology foundation models (FMs)** on downstream tasks such as feature extraction, linear probing, and k-nearest neighbor (kNN) evaluation.
+This repository provides modularized Python scripts for **benchmarking and validating histopathology foundation models (FMs)** on downstream tasks such as feature extraction, linear probing, and k-nearest neighbor (kNN), linear regression and copy detection evaluation.
 It is designed to work seamlessly with pre-trained models (e.g., DINO, Virchow, UNI, PLUTO, etc.) and custom datasets across multiple histological stains (H&E, PAS, Silver, TRI).
 
 ---
